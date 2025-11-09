@@ -1,0 +1,7 @@
+Brief Introduction About Myself
+
+My name is Fareed Olayiwola Oyinromola, a passionate learner from Oyo State, Nigeria. 
+I’m deeply interested in how business, technology, and leadership can be used to uplift communities and drive positive change. 
+I enjoy writing, teaching, and exploring creative ways to solve problems.
+
+This file marks my first hands-on task using GitHub!
