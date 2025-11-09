@@ -1,0 +1,5 @@
+Learning Reflections
+
+So far in this course, I have learned the fundamentals of version control using Git and GitHub. I now understand how to create repositories, work with branches, and collaborate with others through pull requests. These skills are essential for modern software development and teamwork.
+
+One of the most valuable lessons has been understanding how branching allows developers to work on features independently without affecting the main codebase. I've also learned how forking enables open-source collaboration, allowing anyone to contribute to projects while maintaining control over the original repository. 
